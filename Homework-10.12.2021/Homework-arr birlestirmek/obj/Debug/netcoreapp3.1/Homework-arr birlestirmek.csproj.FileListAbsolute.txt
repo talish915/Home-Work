@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-arr birlestirmek\bin\Debug\netcoreapp3.1\Homework-arr birlestirmek.exe
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-arr birlestirmek\bin\Debug\netcoreapp3.1\Homework-arr birlestirmek.deps.json
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-arr birlestirmek\bin\Debug\netcoreapp3.1\Homework-arr birlestirmek.runtimeconfig.json
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-arr birlestirmek\bin\Debug\netcoreapp3.1\Homework-arr birlestirmek.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-arr birlestirmek\bin\Debug\netcoreapp3.1\Homework-arr birlestirmek.dll
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-arr birlestirmek\bin\Debug\netcoreapp3.1\Homework-arr birlestirmek.pdb
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-arr birlestirmek\obj\Debug\netcoreapp3.1\Homework-arr birlestirmek.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-arr birlestirmek\obj\Debug\netcoreapp3.1\Homework-arr birlestirmek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-arr birlestirmek\obj\Debug\netcoreapp3.1\Homework-arr birlestirmek.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-arr birlestirmek\obj\Debug\netcoreapp3.1\Homework-arr birlestirmek.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-arr birlestirmek\obj\Debug\netcoreapp3.1\Homework-arr birlestirmek.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-arr birlestirmek\obj\Debug\netcoreapp3.1\Homework-arr birlestirmek.dll
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-arr birlestirmek\obj\Debug\netcoreapp3.1\Homework-arr birlestirmek.pdb
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-arr birlestirmek\obj\Debug\netcoreapp3.1\Homework-arr birlestirmek.genruntimeconfig.cache

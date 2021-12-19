@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-arr in min ve max elementleri\bin\Debug\netcoreapp3.1\Homework-arr in min ve max elementleri.exe
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-arr in min ve max elementleri\bin\Debug\netcoreapp3.1\Homework-arr in min ve max elementleri.deps.json
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-arr in min ve max elementleri\bin\Debug\netcoreapp3.1\Homework-arr in min ve max elementleri.runtimeconfig.json
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-arr in min ve max elementleri\bin\Debug\netcoreapp3.1\Homework-arr in min ve max elementleri.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-arr in min ve max elementleri\bin\Debug\netcoreapp3.1\Homework-arr in min ve max elementleri.dll
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-arr in min ve max elementleri\bin\Debug\netcoreapp3.1\Homework-arr in min ve max elementleri.pdb
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-arr in min ve max elementleri\obj\Debug\netcoreapp3.1\Homework-arr in min ve max elementleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-arr in min ve max elementleri\obj\Debug\netcoreapp3.1\Homework-arr in min ve max elementleri.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-arr in min ve max elementleri\obj\Debug\netcoreapp3.1\Homework-arr in min ve max elementleri.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-arr in min ve max elementleri\obj\Debug\netcoreapp3.1\Homework-arr in min ve max elementleri.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-arr in min ve max elementleri\obj\Debug\netcoreapp3.1\Homework-arr in min ve max elementleri.dll
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-arr in min ve max elementleri\obj\Debug\netcoreapp3.1\Homework-arr in min ve max elementleri.pdb
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-arr in min ve max elementleri\obj\Debug\netcoreapp3.1\Homework-arr in min ve max elementleri.genruntimeconfig.cache

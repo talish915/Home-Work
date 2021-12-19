@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-2 nin quvveti\bin\Debug\netcoreapp3.1\Homework-2 nin quvveti.exe
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-2 nin quvveti\bin\Debug\netcoreapp3.1\Homework-2 nin quvveti.deps.json
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-2 nin quvveti\bin\Debug\netcoreapp3.1\Homework-2 nin quvveti.runtimeconfig.json
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-2 nin quvveti\bin\Debug\netcoreapp3.1\Homework-2 nin quvveti.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-2 nin quvveti\bin\Debug\netcoreapp3.1\Homework-2 nin quvveti.dll
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-2 nin quvveti\bin\Debug\netcoreapp3.1\Homework-2 nin quvveti.pdb
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-2 nin quvveti\obj\Debug\netcoreapp3.1\Homework-2 nin quvveti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-2 nin quvveti\obj\Debug\netcoreapp3.1\Homework-2 nin quvveti.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-2 nin quvveti\obj\Debug\netcoreapp3.1\Homework-2 nin quvveti.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-2 nin quvveti\obj\Debug\netcoreapp3.1\Homework-2 nin quvveti.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-2 nin quvveti\obj\Debug\netcoreapp3.1\Homework-2 nin quvveti.dll
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-2 nin quvveti\obj\Debug\netcoreapp3.1\Homework-2 nin quvveti.pdb
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-2 nin quvveti\obj\Debug\netcoreapp3.1\Homework-2 nin quvveti.genruntimeconfig.cache

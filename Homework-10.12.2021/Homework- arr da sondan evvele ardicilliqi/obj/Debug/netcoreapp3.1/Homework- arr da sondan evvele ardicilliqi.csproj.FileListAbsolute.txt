@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework- arr da sondan evvele ardicilliqi\bin\Debug\netcoreapp3.1\Homework- arr da sondan evvele ardicilliqi.exe
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework- arr da sondan evvele ardicilliqi\bin\Debug\netcoreapp3.1\Homework- arr da sondan evvele ardicilliqi.deps.json
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework- arr da sondan evvele ardicilliqi\bin\Debug\netcoreapp3.1\Homework- arr da sondan evvele ardicilliqi.runtimeconfig.json
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework- arr da sondan evvele ardicilliqi\bin\Debug\netcoreapp3.1\Homework- arr da sondan evvele ardicilliqi.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework- arr da sondan evvele ardicilliqi\bin\Debug\netcoreapp3.1\Homework- arr da sondan evvele ardicilliqi.dll
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework- arr da sondan evvele ardicilliqi\bin\Debug\netcoreapp3.1\Homework- arr da sondan evvele ardicilliqi.pdb
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework- arr da sondan evvele ardicilliqi\obj\Debug\netcoreapp3.1\Homework- arr da sondan evvele ardicilliqi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework- arr da sondan evvele ardicilliqi\obj\Debug\netcoreapp3.1\Homework- arr da sondan evvele ardicilliqi.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework- arr da sondan evvele ardicilliqi\obj\Debug\netcoreapp3.1\Homework- arr da sondan evvele ardicilliqi.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework- arr da sondan evvele ardicilliqi\obj\Debug\netcoreapp3.1\Homework- arr da sondan evvele ardicilliqi.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework- arr da sondan evvele ardicilliqi\obj\Debug\netcoreapp3.1\Homework- arr da sondan evvele ardicilliqi.dll
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework- arr da sondan evvele ardicilliqi\obj\Debug\netcoreapp3.1\Homework- arr da sondan evvele ardicilliqi.pdb
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework- arr da sondan evvele ardicilliqi\obj\Debug\netcoreapp3.1\Homework- arr da sondan evvele ardicilliqi.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework- arr da sondan evvele ardicilliqi\obj\Debug\netcoreapp3.1\Homework- arr da sondan evvele ardicilliqi.csproj.AssemblyReference.cache

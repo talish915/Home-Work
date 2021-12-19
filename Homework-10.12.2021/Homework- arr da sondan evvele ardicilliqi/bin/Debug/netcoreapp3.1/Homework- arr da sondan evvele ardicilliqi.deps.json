@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Homework- arr da sondan evvele ardicilliqi/1.0.0": {
+        "runtime": {
+          "Homework- arr da sondan evvele ardicilliqi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Homework- arr da sondan evvele ardicilliqi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

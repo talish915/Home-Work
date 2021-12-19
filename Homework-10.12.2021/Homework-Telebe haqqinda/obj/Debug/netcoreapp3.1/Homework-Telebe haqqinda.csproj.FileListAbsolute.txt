@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-Telebe haqqinda\obj\Debug\netcoreapp3.1\Homework-Telebe haqqinda.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-Telebe haqqinda\obj\Debug\netcoreapp3.1\Homework-Telebe haqqinda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-Telebe haqqinda\obj\Debug\netcoreapp3.1\Homework-Telebe haqqinda.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-Telebe haqqinda\obj\Debug\netcoreapp3.1\Homework-Telebe haqqinda.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-Telebe haqqinda\obj\Debug\netcoreapp3.1\Homework-Telebe haqqinda.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-Telebe haqqinda\bin\Debug\netcoreapp3.1\Homework-Telebe haqqinda.exe
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-Telebe haqqinda\bin\Debug\netcoreapp3.1\Homework-Telebe haqqinda.deps.json
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-Telebe haqqinda\bin\Debug\netcoreapp3.1\Homework-Telebe haqqinda.runtimeconfig.json
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-Telebe haqqinda\bin\Debug\netcoreapp3.1\Homework-Telebe haqqinda.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-Telebe haqqinda\bin\Debug\netcoreapp3.1\Homework-Telebe haqqinda.dll
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-Telebe haqqinda\bin\Debug\netcoreapp3.1\Homework-Telebe haqqinda.pdb
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-Telebe haqqinda\obj\Debug\netcoreapp3.1\Homework-Telebe haqqinda.dll
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-Telebe haqqinda\obj\Debug\netcoreapp3.1\Homework-Telebe haqqinda.pdb
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-Telebe haqqinda\obj\Debug\netcoreapp3.1\Homework-Telebe haqqinda.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-arr da elementeri siralama\bin\Debug\netcoreapp3.1\Homework-arr da elementeri siralama.exe
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-arr da elementeri siralama\bin\Debug\netcoreapp3.1\Homework-arr da elementeri siralama.deps.json
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-arr da elementeri siralama\bin\Debug\netcoreapp3.1\Homework-arr da elementeri siralama.runtimeconfig.json
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-arr da elementeri siralama\bin\Debug\netcoreapp3.1\Homework-arr da elementeri siralama.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-arr da elementeri siralama\bin\Debug\netcoreapp3.1\Homework-arr da elementeri siralama.dll
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-arr da elementeri siralama\bin\Debug\netcoreapp3.1\Homework-arr da elementeri siralama.pdb
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-arr da elementeri siralama\obj\Debug\netcoreapp3.1\Homework-arr da elementeri siralama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-arr da elementeri siralama\obj\Debug\netcoreapp3.1\Homework-arr da elementeri siralama.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-arr da elementeri siralama\obj\Debug\netcoreapp3.1\Homework-arr da elementeri siralama.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-arr da elementeri siralama\obj\Debug\netcoreapp3.1\Homework-arr da elementeri siralama.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-arr da elementeri siralama\obj\Debug\netcoreapp3.1\Homework-arr da elementeri siralama.dll
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-arr da elementeri siralama\obj\Debug\netcoreapp3.1\Homework-arr da elementeri siralama.pdb
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-arr da elementeri siralama\obj\Debug\netcoreapp3.1\Homework-arr da elementeri siralama.genruntimeconfig.cache

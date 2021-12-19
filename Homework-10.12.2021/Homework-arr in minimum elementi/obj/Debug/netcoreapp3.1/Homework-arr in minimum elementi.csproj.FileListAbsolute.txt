@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-arr in minimum elementi\bin\Debug\netcoreapp3.1\Homework-arr in minimum elementi.exe
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-arr in minimum elementi\bin\Debug\netcoreapp3.1\Homework-arr in minimum elementi.deps.json
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-arr in minimum elementi\bin\Debug\netcoreapp3.1\Homework-arr in minimum elementi.runtimeconfig.json
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-arr in minimum elementi\bin\Debug\netcoreapp3.1\Homework-arr in minimum elementi.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-arr in minimum elementi\bin\Debug\netcoreapp3.1\Homework-arr in minimum elementi.dll
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-arr in minimum elementi\bin\Debug\netcoreapp3.1\Homework-arr in minimum elementi.pdb
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-arr in minimum elementi\obj\Debug\netcoreapp3.1\Homework-arr in minimum elementi.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-arr in minimum elementi\obj\Debug\netcoreapp3.1\Homework-arr in minimum elementi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-arr in minimum elementi\obj\Debug\netcoreapp3.1\Homework-arr in minimum elementi.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-arr in minimum elementi\obj\Debug\netcoreapp3.1\Homework-arr in minimum elementi.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-arr in minimum elementi\obj\Debug\netcoreapp3.1\Homework-arr in minimum elementi.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-arr in minimum elementi\obj\Debug\netcoreapp3.1\Homework-arr in minimum elementi.dll
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-arr in minimum elementi\obj\Debug\netcoreapp3.1\Homework-arr in minimum elementi.pdb
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework-arr in minimum elementi\obj\Debug\netcoreapp3.1\Homework-arr in minimum elementi.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework- sozlerin umumi sayi\bin\Debug\netcoreapp3.1\Homework- sozlerin umumi sayi.exe
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework- sozlerin umumi sayi\bin\Debug\netcoreapp3.1\Homework- sozlerin umumi sayi.deps.json
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework- sozlerin umumi sayi\bin\Debug\netcoreapp3.1\Homework- sozlerin umumi sayi.runtimeconfig.json
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework- sozlerin umumi sayi\bin\Debug\netcoreapp3.1\Homework- sozlerin umumi sayi.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework- sozlerin umumi sayi\bin\Debug\netcoreapp3.1\Homework- sozlerin umumi sayi.dll
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework- sozlerin umumi sayi\bin\Debug\netcoreapp3.1\Homework- sozlerin umumi sayi.pdb
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework- sozlerin umumi sayi\obj\Debug\netcoreapp3.1\Homework- sozlerin umumi sayi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework- sozlerin umumi sayi\obj\Debug\netcoreapp3.1\Homework- sozlerin umumi sayi.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework- sozlerin umumi sayi\obj\Debug\netcoreapp3.1\Homework- sozlerin umumi sayi.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework- sozlerin umumi sayi\obj\Debug\netcoreapp3.1\Homework- sozlerin umumi sayi.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework- sozlerin umumi sayi\obj\Debug\netcoreapp3.1\Homework- sozlerin umumi sayi.dll
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework- sozlerin umumi sayi\obj\Debug\netcoreapp3.1\Homework- sozlerin umumi sayi.pdb
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework- sozlerin umumi sayi\obj\Debug\netcoreapp3.1\Homework- sozlerin umumi sayi.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Homework\Homework-11.12.2021\Homework- sozlerin umumi sayi\obj\Debug\netcoreapp3.1\Homework- sozlerin umumi sayi.csproj.AssemblyReference.cache
